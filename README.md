@@ -12,7 +12,7 @@ Otherwise, you get executed!
 ## rule:
  - there will be around 20 questions to test if you are loyal to the Party.
  - if you answer right , you get 15-50 social credit score.
- - if you answer right question in the last question you will get infinite social credit score
+ - if you survive the test you prove yourself loyal to the Party.
  - if you answer a wrong question, you lose 30 social credit score.
  - if you answer wrong in an important question, you lose you all credit score and YOU WILL BE EXECUTED TOMORROW.
  - if your social credit score is under -100, YOU WILL BE EXECUTED TOMORROW.
@@ -20,5 +20,3 @@ Otherwise, you get executed!
 
 ## concepts:
 https://knowyourmeme.com/memes/events/chinas-social-credit-system-15-social-credit
-
-## memes:

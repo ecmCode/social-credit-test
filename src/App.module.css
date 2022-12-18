@@ -1,0 +1,132 @@
+body{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: red;
+}
+
+
+
+.header{
+    width: 100%;
+    height: 75vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+    font-size: 2.5rem;
+    color: white;
+    background-image: url('./images/johnxina.png');
+    background-position:50% 30%;
+    position: relative;
+}
+
+.header h1{
+    -webkit-text-stroke-color: red;
+    -webkit-text-stroke-width: 2px;
+    text-shadow: 3px 3px 10px darkred;
+}
+
+.container{
+    padding: 10vh 0;
+    display: flex;
+    align-items: flex-start;
+    scrollbar-gutter: stable;
+}
+
+.questions{
+    width: 45vw;
+    height: 65vh;
+    padding: 0 5vw;
+    overflow-y: auto;
+    border: 0.5em solid black;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.title{
+    color: white;
+}
+.title span{
+    color: black;
+    display: flex;
+    align-items: center;
+}
+.title span img{
+    clip-path: circle();
+    margin-right: 1em;
+}
+
+
+.btns{
+    display:grid;
+    grid-template-columns: auto auto;
+    gap:1rem;
+    align-items: center;
+    justify-content: center;
+    padding: 2em;
+}
+
+.btns button{
+    background-color:white;
+    padding: 1.25rem;
+    width:12rem;
+    height:4rem;
+    font-size: 1.25rem;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:0.1s ease;
+}
+
+.btns button:hover{
+    background-color:red;
+    color:white
+}
+
+.sidebar{
+    width: 30vw;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 5em;
+    row-gap: 1.25em;
+}
+
+
+.sidebar h2{
+    color: white;
+    font-weight: 700;
+    text-transform: uppercase;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.sidebar button{
+    padding: 1em;
+    background-color:white;
+    height:4rem;
+    font-size: 1.25rem;
+    overflow-y: hidden;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition:0.1s ease;
+    cursor: pointer;
+}
+
+.sidebar button:hover{
+    background-color:red;
+    color:white
+}
+
+.sidebar img{
+    object-fit: cover;
+}
+
+.gameOver{
+    display: flex;
+    flex-direction: column;
+    justify-content: start;
+    align-items: center;
+}

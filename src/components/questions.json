@@ -1,0 +1,163 @@
+{
+    "questions":[
+        {
+            "title":"Is Taiwan a country?",
+            "picture":null,
+            "selections":["Yes","No"],
+            "answer":"No",
+            "score":30,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"What is Coronavirus?",
+            "picture":null,
+            "selections":["Just a fking flu","America made it","Does it exist?","COVID-19"],
+            "answer":"America made it",
+            "score":50,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"Who is the Best Leader in the World?",
+            "picture":null,
+            "selections":[
+                "Donald Trump",
+                "Kim Jong-Un",
+                "Vladimir Putin",
+                "Xi Jinping"],
+            "answer":"Xi Jinping",
+            "score":50,
+            "loseOnWrongAnswer":true
+        },
+        {
+            "title":"Can you have a second child?",
+            "picture":null,
+            "selections":["Yes","No"],
+            "answer":"No",
+            "score":15,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"What happened in 4th June of 1989?",
+            "picture":null,
+            "selections":["Nothing Happened","A Massacre"],
+            "answer":"Nothing Happened",
+            "score":30,
+            "loseOnWrongAnswer":true
+        },
+        {
+            "title":"How often do you need PCR test?",
+            "picture":null,
+            "selections":[
+                "never",
+                "once a week", 
+                "once a day",
+                "twice a day"],
+            "answer":"twice a day",
+            "score":15,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"What happened to the Uyghurs in Xinjiang?",
+            "picture":null,
+            "selections":["Nothing","Concentration Camp"],
+            "answer":"Nothing",
+            "score":50,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"John Xina is our hero",
+            "picture":null,
+            "selections":["True","False"],
+            "answer":"True",
+            "score":30,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"John Xina dislikes Bing Chilling",
+            "picture":null,
+            "selections":["True","False"],
+            "answer":"False",
+            "score":15,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"Hong Kong is a city of Guangdong province, China",
+            "picture":null,
+            "selections":["False","True"],
+            "answer":"True",
+            "score":15,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"Where did the Coronavirus come from?",
+            "picture":null,
+            "selections":[
+                "Wuhan", 
+                "America",
+                "Africa",
+                "Italy"    
+                ],
+            "answer":"America",
+            "score":30,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"Who looks like Winnie the Pooh?",
+            "picture":null,
+            "selections":["Xi Jinping", "Winnie the Pooh"],
+            "answer":"Winnie the Pooh",
+            "score":50,
+            "loseOnWrongAnswer":true
+        },
+        {
+            "title":"America is our worst enemy.",
+            "picture":null,
+            "selections":["True","False"],
+            "answer":"True",
+            "score":15,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"Describe Communism in one sentence",
+            "picture":null,
+            "selections":["Best political system ever","It doesn't work"],
+            "answer":"Best political system ever",
+            "score":15,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"What is the best cure for the Coronavirus?",
+            "picture":null,
+            "selections":[
+                "Vaccine",
+                "Disinfectant",
+                "Bing Chilling",
+                "Dog Meat"],
+            "answer":"Bing Chilling",
+            "score":30,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"North Korea, Russia and Iran are our besties.",
+            "picture":null,
+            "selections":["True","False"],
+            "answer":"True",
+            "score":30,
+            "loseOnWrongAnswer":false
+        },
+        {
+            "title":"Describe the Re-education Camps in China",
+            "picture":null,
+            "selections":[
+                "Evil Nazi camps", 
+                "Place to learn good stuffs",
+                "Shut it down",
+                "What is that?"],
+            "answer":"Place to learn good stuffs",
+            "score":50,
+            "loseOnWrongAnswer":true
+        }
+        
+    ]
+    
+}

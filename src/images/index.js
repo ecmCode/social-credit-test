@@ -1,0 +1,10 @@
+import win from './win.png'
+import lose from './lose.png'
+import plus15 from './plus15.png'
+import plus30 from './plus30.png'
+import plus50 from './plus50.png'
+import minus30 from './minus30.png'
+import johnxina from './johnxina.png'
+import xi from './xi.png'
+import winnie from './winnie.png'
+export {win,lose,plus15,plus30,plus50,minus30,johnxina,xi,winnie};

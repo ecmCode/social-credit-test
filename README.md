@@ -1,3 +1,5 @@
+(Ongoing) social credit test project using Javascript/React.
+
 # ALL HAIL OUR ~~WINNIE THE POOH~~ GLORIOUS LEADER <span style='font-size: 40px; color:red'>XI JINPING</span> AND THE <span style='font-size: 40px; color:red'>CCP</span>
 
 ## Comerade, Test your Social Credit HERE!
@@ -8,7 +10,7 @@
 Otherwise, you get executed!
 
 ## rule:
- - there will be 20 questions to test if you are loyal to the Party.
+ - there will be around 20 questions to test if you are loyal to the Party.
  - if you answer right , you get 15-50 social credit score.
  - if you answer right question in the last question you will get infinite social credit score
  - if you answer a wrong question, you lose 30 social credit score.

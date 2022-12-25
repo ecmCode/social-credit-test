@@ -28,15 +28,17 @@ body{
 }
 
 .container{
-    padding: 10vh 0;
+    padding: 4vh 0;
     display: flex;
-    align-items: flex-start;
+    height: 65vh;
+    align-items: space-between;
+    justify-items:flex-start;
     scrollbar-gutter: stable;
 }
 
 .questions{
     width: 45vw;
-    height: 65vh;
+    height: 100%;
     padding: 0 5vw;
     overflow-y: auto;
     border: 0.5em solid black;
@@ -89,8 +91,8 @@ body{
     overflow: hidden;
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    padding: 5em;
+    justify-content: start;
+    padding: 3em;
     row-gap: 1.25em;
 }
 

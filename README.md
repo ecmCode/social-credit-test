@@ -17,6 +17,3 @@ Otherwise, you get executed!
  - if you answer wrong in an important question, you lose you all credit score and YOU WILL BE EXECUTED TOMORROW.
  - if your social credit score is under -100, YOU WILL BE EXECUTED TOMORROW.
  - All hail XI JINPING
-
-## concepts:
-https://knowyourmeme.com/memes/events/chinas-social-credit-system-15-social-credit
